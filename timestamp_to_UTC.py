@@ -19,9 +19,7 @@ args = parser.parse_args()
 
 # Converting Unix timestamp into integer
 unix_timestamp = int(args.unix)
-#unix_timestamp = 1579003233
 
 
 # Prints Unix timestamp into UTC date and time
 print("Unix timestamp in UTC date: %s" %datetime.utcfromtimestamp(unix_timestamp).strftime('%Y-%m-%d %H:%M:%S'))
-
