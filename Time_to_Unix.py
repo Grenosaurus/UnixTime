@@ -1,6 +1,5 @@
 """
- The program converts the given date and time into Unix timestamp. For doing the measurements, 
- Suomi 100 satellite needs the Unix time to operate (Made: Jauaries Loyala -- 9.01.2020).
+ The program converts the given date and time into Unix timestamp (Made: Jauaries Loyala -- 9.01.2020).
 """
 
 # Python packets
