@@ -1,5 +1,5 @@
 """
- The program converts the given date and time into Unix timestamp (Made: Jauaries Loyala -- 9.01.2020).
+ The program converts the given date and time into Unix timestamp.
 """
 
 # Python packets
